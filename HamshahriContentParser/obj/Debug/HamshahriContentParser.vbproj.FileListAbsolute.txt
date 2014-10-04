@@ -1,0 +1,13 @@
+C:\Users\a.pournasserian\Desktop\Hamshahri\HamshahriContentParser\bin\Debug\HamshahriContentParser.exe.config
+C:\Users\a.pournasserian\Desktop\Hamshahri\HamshahriContentParser\bin\Debug\HamshahriContentParser.exe
+C:\Users\a.pournasserian\Desktop\Hamshahri\HamshahriContentParser\bin\Debug\HamshahriContentParser.pdb
+C:\Users\a.pournasserian\Desktop\Hamshahri\HamshahriContentParser\bin\Debug\HamshahriContentParser.xml
+C:\Users\a.pournasserian\Desktop\Hamshahri\HamshahriContentParser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\a.pournasserian\Desktop\Hamshahri\HamshahriContentParser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\a.pournasserian\Desktop\Hamshahri\HamshahriContentParser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\a.pournasserian\Desktop\Hamshahri\HamshahriContentParser\obj\Debug\HamshahriContentParser.vbprojResolveAssemblyReference.cache
+C:\Users\a.pournasserian\Desktop\Hamshahri\HamshahriContentParser\obj\Debug\HamshahriContentParser.Resources.resources
+C:\Users\a.pournasserian\Desktop\Hamshahri\HamshahriContentParser\obj\Debug\HamshahriContentParser.vbproj.GenerateResource.Cache
+C:\Users\a.pournasserian\Desktop\Hamshahri\HamshahriContentParser\obj\Debug\HamshahriContentParser.exe
+C:\Users\a.pournasserian\Desktop\Hamshahri\HamshahriContentParser\obj\Debug\HamshahriContentParser.xml
+C:\Users\a.pournasserian\Desktop\Hamshahri\HamshahriContentParser\obj\Debug\HamshahriContentParser.pdb

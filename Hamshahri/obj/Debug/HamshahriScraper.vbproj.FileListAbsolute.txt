@@ -1,0 +1,9 @@
+C:\Users\a.pournasserian\Desktop\Hamshahri\Hamshahri\bin\Debug\Hamshahri.exe.config
+C:\Users\a.pournasserian\Desktop\Hamshahri\Hamshahri\obj\Debug\Hamshahri.exe
+C:\Users\a.pournasserian\Desktop\Hamshahri\Hamshahri\obj\Debug\Hamshahri.xml
+C:\Users\a.pournasserian\Desktop\Hamshahri\Hamshahri\obj\Debug\Hamshahri.pdb
+C:\Users\a.pournasserian\Desktop\Hamshahri\Hamshahri\bin\Debug\Hamshahri.exe
+C:\Users\a.pournasserian\Desktop\Hamshahri\Hamshahri\bin\Debug\Hamshahri.pdb
+C:\Users\a.pournasserian\Desktop\Hamshahri\Hamshahri\bin\Debug\Hamshahri.xml
+C:\Users\a.pournasserian\Desktop\Hamshahri\Hamshahri\obj\Debug\Hamshahri.Resources.resources
+C:\Users\a.pournasserian\Desktop\Hamshahri\Hamshahri\obj\Debug\HamshahriScraper.vbproj.GenerateResource.Cache

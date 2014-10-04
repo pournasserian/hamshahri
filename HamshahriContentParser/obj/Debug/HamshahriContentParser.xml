@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HamshahriContentParser
+</name>
+</assembly>
+<members>
+<member name="M:HamshahriContentParser.PersianCalendarHelper.GetPersianDate(System.Object,System.String)">
+	<summary>
+ دریافت تاریخ شمسی بر اساس تاریخ میلادی دریافتی 
+ </summary>
+	<param name="gregorianDate">تاریخ میلادی</param>
+	<returns>رشته متنی از تاریخ شمسی</returns>
+	<remarks></remarks>
+</member><member name="M:HamshahriContentParser.PersianCalendarHelper.GetGaregorianDate(System.String,System.String,System.Boolean)">
+	<summary>
+ Get pesian date time as string and return garegorian date time 
+ </summary>
+	<param name="time">valid values =h[:]m[:][[s][.][ms]] = 2459 24:59 245930 24:59:30 24:59:10.99</param>
+	<param name="persianDate">valid values =[13]y[/]m[/]d = 1390/01/01 13901029 901130</param>
+	<param name="omitException">return nothing if any exception thrown [true], or throw exception [false]</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:HamshahriContentParser.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HamshahriContentParser.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:HamshahriContentParser.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
