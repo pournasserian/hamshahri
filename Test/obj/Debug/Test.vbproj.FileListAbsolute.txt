@@ -1,0 +1,9 @@
+C:\Users\a.pournasserian\Desktop\hamshahri-master\Test\bin\Debug\Test.exe.config
+C:\Users\a.pournasserian\Desktop\hamshahri-master\Test\bin\Debug\Test.exe
+C:\Users\a.pournasserian\Desktop\hamshahri-master\Test\bin\Debug\Test.pdb
+C:\Users\a.pournasserian\Desktop\hamshahri-master\Test\bin\Debug\Test.xml
+C:\Users\a.pournasserian\Desktop\hamshahri-master\Test\obj\Debug\Test.Resources.resources
+C:\Users\a.pournasserian\Desktop\hamshahri-master\Test\obj\Debug\Test.vbproj.GenerateResource.Cache
+C:\Users\a.pournasserian\Desktop\hamshahri-master\Test\obj\Debug\Test.exe
+C:\Users\a.pournasserian\Desktop\hamshahri-master\Test\obj\Debug\Test.xml
+C:\Users\a.pournasserian\Desktop\hamshahri-master\Test\obj\Debug\Test.pdb

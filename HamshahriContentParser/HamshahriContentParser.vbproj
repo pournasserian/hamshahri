@@ -51,6 +51,7 @@
       <HintPath>Assemblies\HtmlAgilityPack.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
     <Reference Include="System.Web" />
@@ -71,7 +72,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BaseParser.vb" />
+    <Compile Include="HamshahriContentParser.vb" />
     <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -113,6 +114,12 @@
     <Content Include="Assemblies\HtmlAgilityPack.dll" />
     <Content Include="Assemblies\HtmlAgilityPack.pdb" />
     <Content Include="Assemblies\HtmlAgilityPack.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.vbproj">
+      <Project>{1ce265d5-af2e-4ac5-8e79-a2d2b375cdc6}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -1,7 +1,8 @@
 ﻿Module Module1
 
     Sub Main()
-        BaseParser.ExtractAll()
+        Dim parser As New HamshahriContentParser
+        parser.Extract()
     End Sub
 
 End Module
